@@ -4,3 +4,4 @@
  
 # Installation instructions
 
+Open our code using Visual Studio Code and then add a new terminal and enter " streamlit run app.py
