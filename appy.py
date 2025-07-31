@@ -16,7 +16,7 @@ HF_API_KEY = os.getenv("HF_API_KEY")
 
 # Streamlit UI setup
 st.set_page_config(page_title="LangChain PDF Chat", layout="centered")
-st.title("📄 LangChain PDF Chat (RAG)")
+st.title("📄 JusticeNow")
 
 # Upload PDF
 uploaded_file = st.file_uploader("Upload a PDF", type=["pdf"])
